@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VapeRecipes</string>
+    <string name="List">List</string>
+    <string name="Create">Create</string>
+    <string name="AmountMake">Amount to Make</string>
+    <string name="ml">ml</string>
+    <string name="desStr">Desired Strength</string>
+    <string name="WVPGA">Water/Vodka/PGA</string>
+    <string name="desPG">Desired PG</string>
+    <string name="desVG">Desired VG</string>
+    <string name="desNic">Desired Nicotine</string>
+    <string name="PgNic">PG-content of nicotine</string>
+    <string name="VgNic">VG-content of nicotine</string>
+
+
+</resources>
